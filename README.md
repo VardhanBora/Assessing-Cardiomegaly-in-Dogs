@@ -8,7 +8,7 @@ This repository contains the code and model weights for our paper "Assessing Car
 
 
 ## Model Weights
-- [GitHub Model Weights](https://your-github-repo-link/weights)
+- [GitHub Model Weights]([https://your-github-repo-link/weights](https://github.com/VardhanBora/Assessing-Cardiomegaly-in-Dogs/blob/main/Pth%20file.pth))
 
 ## Abstract
 This paper introduces DogHeart, a dataset of 2000 X-ray images categorized by vertebral heart size (VHS) into small, normal, and large classes...
