@@ -3,7 +3,8 @@
 This repository contains the code and model weights for our paper "Assessing Cardiomegaly in Dogs Using a Simple CNN Model."
 
 ## Paper Links
-- [ResearchGate Paper Link]([https://your-researchgate-paper-link](https://www.researchgate.net/publication/382114537_Assessing_Cardiomegaly_in_Dogs_Using_a_Simple_CNN_Model))
+- [ResearchGate Paper Link](
+- [https://your-researchgate-paper-link](https://www.researchgate.net/publication/382114537_Assessing_Cardiomegaly_in_Dogs_Using_a_Simple_CNN_Model))
 
 
 ## Model Weights
